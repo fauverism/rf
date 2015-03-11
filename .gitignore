@@ -4,7 +4,6 @@ logs
 
 app/private
 ./idea
-bower_components
 
 # Runtime data
 pids
