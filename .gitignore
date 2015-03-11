@@ -3,7 +3,7 @@ logs
 *.log
 
 app/private
-
+./idea
 bower_components
 
 # Runtime data
