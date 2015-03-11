@@ -1,0 +1,198 @@
+$icon-font-path: "../bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/";
+// bower:scss
+@import "bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
+// endbower
+
+//Source+Sans+Pro|Merriweather:400,900,300,700|Merriweather+Sans:400,300,800,700|Sacramento'
+//font-family: 'Source Sans Pro', sans-serif;
+//font-family: 'Merriweather', serif;
+//font-family: 'Merriweather Sans', sans-serif;
+//font-family: 'Sacramento', cursive;
+
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+body {
+  font-family: 'Merriweather', Georgia, "Times New Roman", Times, serif;
+}
+
+/* Space out content a bit */
+//TODO: use normalize
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 72px;
+}
+.navbar-brand {
+  font-family: 'Merriweather', Georgia, "Times New Roman", Times, serif;
+}
+
+code {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+p, a {
+  font-size: 2rem;
+}
+a {
+  color: #1a2129;
+  text-decoration: none;
+}
+a:hover {
+  color: #002a80;
+}
+
+//Navbar
+.navbar-brand {
+//  background: url("../images/logo.png") no-repeat;
+  background-size: 100%;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.3rem;
+  line-height: 40px;
+//  height: 80px;
+//  text-indent: -9999px;
+//  width: 80px;
+}
+.navbar-brand-mobile {
+  display: none;
+}
+.nav {
+  margin: 10px 0 0;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Custom page header */
+.header {
+
+  /* Make the masthead heading the same height as the navigation */
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 40px;
+    padding-bottom: 19px;
+  }
+}
+
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  background: #fff !important;
+  border-bottom: 0;
+  border-radius: 0 !important;
+  color: #444;
+  margin: 0;
+//  text-align: center;
+  .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+  }
+  h1 {
+    text-align: center;
+  }
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+
+  p + h4 {
+    margin-top: 28px;
+  }
+}
+
+/* Overrides */
+//Navigation
+.navbar-default {
+  background-color: transparent !important;
+  border-color: transparent !important;
+}
+
+/*Footer*/
+.footer {
+  padding-top: 19px;
+  color: #777;
+  text-align: center;
+  p, a {
+    color: #1a2129;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.3rem;
+  }
+  a:hover {
+    //TODO: do the 3d hover
+    color: #002a80;
+  }
+}
+
+/*Contact*/
+.contact {
+  .row {
+    color: #444;
+  }
+}
+
+@media (min-width: 1024px) {
+  .navbar-toggle {
+    display: none;
+  }
+}
+
+/* Responsive: Portrait tablets and up */
+@media only screen and (max-width: 480px) {
+
+}
+@media screen and (max-width: 768px) {
+  .container {
+    max-width: 730px;
+    padding: 0;
+  }
+  p, a {
+    font-size: 1.5rem;
+  }
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  .navbar-brand {
+    display: none;
+  }
+  .navbar-brand-mobile {
+    display: block;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+  }
+}
+
+//iPhone 2G-4S in landscape
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px)
+and (orientation : landscape) {
+
+}
+
+////iPhone 5 in landscape
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : landscape) {
+
+}

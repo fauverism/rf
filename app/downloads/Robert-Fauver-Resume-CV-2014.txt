@@ -1,0 +1,148 @@
+Robert Fauver
+http://robertfauver.com
+robertfauver@gmail.com
+856-220-1833
+
+EXPERIENCE
+
+Acurian
+06/14 - Present
+- Responsible for consuming a Web Service on the client side for an SPA that screens potential clients for clinical trials
+- Created with AngularJS, Angular custom directives, SASS, HTML5, Twitter Bootstrap, CoreJS, Jasmine and Grunt
+- Creation of rapid prototypes that are responsive
+- Development of a custom embed of an Angular app created in Perl
+
+National Board of Medical Examiners | UX Engineer
+06/13 - 06/14
+- Implementation of the AngularJS MVC framework for application conversion into the Chromium frame
+- AngularUI with Bootstrap for the design framework
+- Use modern web app technologies such as HTML5, CSS3 and JavaScript
+- Create services from a JSON Model for the $scope
+- Created with an agile team
+- A/B & User testing
+- Support for QA team via JIRA
+- Advocate of TDD with Protractor, Karma & Jasmine
+NBME samples are available upon request
+
+Bristol-Myers Squibb | Senior Web Developer
+11/10 - 04/13
+- Daily use of CSS3, HTML5 & JavaScript to create websites and web apps
+- Creation of mobile websites using jQuerymobile and Sencha frameworks
+- Responsive development for internal presentations
+- Customization of Sharepoint 2007 & 2010 websites
+- Taught classes on web development on HTML5 and JavaScript
+- Development of frontend architecture and standards to be used by entire team
+- Worked on HTML5 video delivery strategy for multiple devices
+- Use of ajax to process xml and json data
+Bristol-Myers Squibb samples are available upon request
+
+Merrill Lynch | Web Designer II
+7/10 - 11/10
+- Execution of Marketing initiatives for multiple businesses
+- Information Architecture for CMS driven websites
+- Development of CMS driven website
+- Creation of CSS, HTML & JavaScript that meets all major browser requirements
+- Creation of Wealth Management and Financial Advisor websites
+
+Merrill Lynch Example Links
+http://benefitplans.baml.com/IR/pages/ir_home.aspx
+Financial Advisors websites available upon request
+
+True Action (GSI) | Web Developer
+01/10 - 07/10
+- Development of timberland.com e-commerce website
+- Implementation of websites in a Java based MVC environment that used Apache Tiles, JSP, XML & XSLT
+- Use of IADs/Wireframes and Redlines/Style Guides to create CSS & HTML template pages
+- Creation of JavaScript based upon jQuery and DomFather(custom GSI JavaScript framework)
+- Bug fixes using HP Quality Center for Toys R Us & Ralph Lauren websites
+
+True Action (GSI) Links
+http://www.timberland.com/
+
+Princeton University | Web Designer
+05/09 - 11/09
+- Designed and Developed CMS website themes for free use by departments across the University
+- Brainstorming sessions with Web Development Services & OIT
+- Creation of wireframes. mockups. and inspiration examples from brainstorming sessions
+- Extensively tested and validated websites on all major browsers and screen readers
+
+Princeton University Links
+http://www.princeton.edu/wds/samples/fauver/
+http://www.princeton.edu/wds/samples/inventive/
+http://www.princeton.edu/wds/samples/noor/
+
+Princeton Online | Web Designer
+01/07-05/09
+- Design and Development for a wide range of clients
+- Creation of CSS & XHTML with a focus on web standards
+- Extensive browser testing and troubleshooting
+- Developed with Coldfusion for CMS that fit the client's needs
+
+Princeton Online Links
+http://drbienstock.com/
+http://silvercentury.org/
+http://jamesirish.com/
+
+Previous Graphic Design focusing on Print positions
+Arett Sales | Graphic & Web Designer | 03/05-01/07
+Pep Boys | Graphic Designer | 02/04 - 12/04
+Modern Technologies Group | Graphic Designer | 02/01 - 10/02
+Koen Book Distributors | Graphic Designer | 12/98 - 12/99
+
+---
+
+EDUCATION
+The Art Institute of Philadelphia Class of 2000
+
+SKILLS
+     - Design Presentations
+     - Learned how to learn
+     - Basecamp
+
+FRAMEWORKS, LANGUAGES, TOOLS, ETC.
+     - AngularJS
+     - AngularUI
+     - Bower, Grunt & npm
+     - JavaScript
+     - jQuery
+     - CSS3
+     - HTML5
+     - Visual & UI Design
+     - UX Design
+     - SASS
+     
+     CMS
+     - Sharepoint
+     - Wordpress
+     - Roxen
+     - ColdFusion
+     - MySQL
+
+TECHNIQUES/Concepts
+     - Mobile Websites and Applications
+     - Responsive Web Development
+     - Clean Code
+     - TDD
+     - W3C Compliant Code
+     - VCS(svn & git)
+     - AJAX
+     - User testing
+     - Extensive knowledge of browser debugging
+     - Command line
+
+APPLICATIONS
+     - Coda, Sublime, Textmate, vim, WebStorm 
+     - Adobe Creative Suite
+     - Various Browsers
+
+ACCOUNTS
+- github.com/fauverism
+- twitter.com/fauverism
+- fauverism.tumblr.com
+
+REFERENCES ARE AVAILABLE UPON REQUEST
+
+Robert Fauver
+http://robertfauver.com
+robertfauver@gmail.com
+856-220-1833

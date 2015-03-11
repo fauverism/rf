@@ -2,6 +2,10 @@
 logs
 *.log
 
+app/private
+
+bower_components
+
 # Runtime data
 pids
 *.pid
