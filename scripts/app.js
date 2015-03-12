@@ -17,15 +17,15 @@ angular
         url: '/',
         views: {
           'header': {
-            templateUrl: '../views/header.html',
+            templateUrl: 'views/header.html',
             controller: 'headerController'
           },
           'main': {
-            templateUrl: '../views/main.html',
+            templateUrl: 'views/main.html',
             controller: 'mainController'
           },
           'footer': {
-            templateUrl: '../views/footer.html',
+            templateUrl: 'views/footer.html',
             controller: 'footerController'
           }
         }
