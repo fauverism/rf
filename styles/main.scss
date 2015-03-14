@@ -51,9 +51,6 @@ a:hover {
   font-family: 'Sacramento', cursive;
   font-size: 3.3rem;
   line-height: 40px;
-//  height: 80px;
-//  text-indent: -9999px;
-//  width: 80px;
 }
 .navbar-brand-mobile {
   display: none;
@@ -126,18 +123,30 @@ a:hover {
 
 /*Footer*/
 .footer {
-  padding-top: 19px;
+  background: (0, 0, 0, 0.1);
   color: #777;
+  padding-top: 19px;
   text-align: center;
-  p, a {
+  ul {
+    margin: 0;
+    li {
+      display: inline-block;
+      text-align: center;
+    }
+  }
+  p {
     color: #1a2129;
     font-family: 'PT Sans', sans-serif;
     font-size: 1.3rem;
+  }
+  a {
+    color: teal;
   }
   a:hover {
     //TODO: do the 3d hover
     color: #002a80;
   }
+
 }
 
 /*Contact*/

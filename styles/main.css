@@ -89,13 +89,21 @@ a:hover {
 
 /*Footer*/
 .footer {
-  padding-top: 19px;
+  background: 0, 0, 0, 0.1;
   color: #777;
+  padding-top: 19px;
   text-align: center; }
-  .footer p, .footer a {
+  .footer ul {
+    margin: 0; }
+    .footer ul li {
+      display: inline-block;
+      text-align: center; }
+  .footer p {
     color: #1a2129;
     font-family: 'PT Sans', sans-serif;
     font-size: 1.3rem; }
+  .footer a {
+    color: teal; }
   .footer a:hover {
     color: #002a80; }
 
