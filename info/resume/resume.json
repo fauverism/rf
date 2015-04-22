@@ -1,0 +1,176 @@
+{
+  "basics": {
+    "name": "Robert E. Fauver",
+    "label": "Programmer",
+    "picture": "https://avatars1.githubusercontent.com/u/341955?v=3&s=460",
+    "email": "robertfauver@gmail.com",
+    "phone": "(856) 220-1833",
+    "website": "http://robertfauver.com",
+    "summary": "",
+    "location": {
+      "address": "350 E. 2nd Street",
+      "postalCode": "NJ 08057",
+      "city": "Moorestown",
+      "countryCode": "US",
+      "region": "New Jersey"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "fauverism",
+        "url": "http://github.com/fauverism"
+      },
+      {
+        "network": "Twitter",
+        "username": "fauverism",
+        "url": "http://robertfauver.com/fauverism"
+      },
+      {
+        "network": "Flickr",
+        "username": "fauverism",
+        "url": "https://www.flickr.com/photos/66806806@N00"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Robert E. Fauver",
+        "url": "https://www.linkedin.com/pub/robert-fauver/7b/8b1/801"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "fauverism",
+        "url": "http://stackoverflow.com/users/721040/fauverism"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "fauverism",
+        "url": "https://soundcloud.com/fauverism"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Acurian",
+      "position": "Mobile Consultant",
+      "startDate": "2014-6-01",
+      "endDate": "2014-12-01",
+      "summary": "",
+      "highlights": [
+        "Responsible for consuming a Web Service on the client side for an SPA that screens potential clients for clinical trials",
+        "Created with AngularJS, Angular custom directives, SASS, HTML5, Twitter Bootstrap, CoreJS, Jasmine and Grunt",
+        "Creation of rapid prototypes that are responsive"
+      ],
+      "technologies": [
+        "AngularJS",
+        "Twitter Bootstrap",
+        "Responsive Layout",
+        "SASS"
+      ]
+    },
+    {
+      "company": "National Board of Medical Examiners",
+      "position": "UX Engineer",
+      "startDate": "2013-6-01",
+      "endDate": "2013-6-01",
+      "summary": "",
+      "highlights": [
+        "Implementation of the AngularJS MVC framework for application conversion into the Chromium frame",
+        "AngularUI with Bootstrap for the design framework",
+        "Use modern web app technologies such as HTML5, CSS3 and JavaScript",
+        "Create services from a JSON Model for the $scope",
+        "Created with an agile team",
+        "A/B & User testing",
+        "Support for QA team via JIRA",
+        "Advocate of TDD with Protractor, Karma & Jasmine"
+      ],
+      "technologies": [
+        "AngularJS",
+        "AngularUI",
+        "Chromium"
+      ]
+    },
+    {
+      "company": "Bristol-Myers Squibb",
+      "position": "Senior Web Developer",
+      "startDate": "01-2010",
+      "endDate": "2013-6-01",
+      "summary": "",
+      "highlights": [
+        "Implementation of the AngularJS MVC framework for application conversion into the Chromium frame",
+        "AngularUI with Bootstrap for the design framework",
+        "Use modern web app technologies such as HTML5, CSS3 and JavaScript",
+        "Create services from a JSON Model for the $scope",
+        "Created with an agile team",
+        "A/B & User testing",
+        "Support for QA team via JIRA",
+        "Advocate of TDD with Protractor, Karma & Jasmine"
+      ],
+      "technologies": [
+        "AngularJS",
+        "AngularUI",
+        "Chromium"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "website": "http://coderdojo.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people."
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Art Institute of Philadelphia",
+      "area": "Graphic Design",
+      "studyType": "Associates",
+      "endDate": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "HTML5 elements",
+        "CSS"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "SASS",
+        "LESS",
+        "Bootstrap",
+        "Foundation",
+        "Animations",
+        "Browser Compatibility"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Records",
+      "keywords": [
+        "Classic Rock",
+        "Weird Music",
+        "Techno"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Kenny Greb",
+      "reference": ""
+    }
+  ]
+}
