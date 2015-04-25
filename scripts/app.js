@@ -3,13 +3,13 @@
 angular
   .module('ngFauverismApp', [
     'ngAnimate',
+    'ngAria',
     'ngCookies',
     'ngResource',
     'ngSanitize',
     'ngTouch',
     'ngMaterial',
-    'ui.router',
-    'formly'
+    'ui.router'
   ])
   .config(function ($urlRouterProvider, $stateProvider) {
     $urlRouterProvider.otherwise('/');
