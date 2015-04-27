@@ -3,12 +3,12 @@
 angular
   .module('ngFauverismApp', [
     'ngAnimate',
-    'ngAria',
-    'ngCookies',
+    //'ngAria',
+    //'ngCookies',
     'ngResource',
     'ngSanitize',
     'ngTouch',
-    'ngMaterial',
+    //'ngMaterial',
     'ui.router'
   ])
   .config(function ($urlRouterProvider, $stateProvider) {
