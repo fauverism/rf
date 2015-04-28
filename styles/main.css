@@ -39,8 +39,9 @@ h5 {
 code {
   font-family: 'Source Sans Pro', sans-serif; }
 
-p, a {
-  font-size: 1.4rem; }
+p {
+  font-size: 1.2rem;
+  line-height: 2rem; }
 
 a {
   color: #1a2129;
@@ -49,19 +50,42 @@ a {
 a:hover {
   color: #002a80; }
 
-.navbar-brand {
+.navbar-header .logo {
+  display: inline-block;
+  margin: 10px 0 0;
+  width: 100px; }
+.navbar-header .navbar-brand {
   background-size: 100%;
+  background-color: #073642;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 60px;
+  color: #cccccc;
+  display: block;
   font-family: 'Sacramento', cursive;
-  font-size: 3.3rem;
-  line-height: 40px; }
-
-.navbar-brand-mobile {
+  font-size: 2.5rem;
+  line-height: 40px;
+  height: 60px;
+  margin: 0 0 0 15px;
+  padding: 25px 0 0 14px;
+  width: 70px; }
+.navbar-header .navbar-brand-mobile {
   display: none; }
+.navbar-header ul {
+  display: block;
+  float: right;
+  margin: 40px 0 0; }
+  .navbar-header ul li {
+    display: inline-block;
+    margin: 0 0 0 20px; }
+    .navbar-header ul li a {
+      color: #268bd2; }
+    .navbar-header ul li a:hover {
+      color: #6c71c4; }
 
 .nav {
   margin: 10px 0 0; }
 
-/* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
 .footer {
@@ -79,10 +103,6 @@ a:hover {
 
 .container-narrow > hr {
   margin: 30px 0; }
-
-.logo {
-  margin: 40px 0 0;
-  width: 480px; }
 
 /* Main marketing message and sign up button */
 .jumbotron {
@@ -112,15 +132,19 @@ a:hover {
 .footer {
   background: 0, 0, 0, 0.1;
   border-top: 1px solid #cccccc;
-  color: #777;
-  padding-top: 19px;
-  text-align: center; }
-  .footer ul {
-    margin: 0; }
-    .footer ul li {
+  color: #777; }
+  .footer ul.details {
+    display: inline-block; }
+    .footer ul.details li {
       display: inline-block;
-      font-size: 1.3rem;
-      text-align: center; }
+      margin: 4px 0 0;
+      text-align: left; }
+  .footer ul.social {
+    display: block;
+    float: right;
+    margin: 10px 0 0; }
+    .footer ul.social li {
+      display: inline-block; }
   .footer p {
     color: #1a2129;
     font-family: 'PT Sans', sans-serif;

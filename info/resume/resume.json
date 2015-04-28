@@ -290,26 +290,6 @@
         "Weird Music",
         "Techno"
       ]
-    },
-    {
-      "name": "Books"
-    },
-    {
-      "name": "Books"
-    }
-  ],
-  "references": [
-    {
-      "name": "Kenny Greb",
-      "reference": "lorem"
-    },
-    {
-      "name": "John Contatrino",
-      "reference": "lorem"
-    },
-    {
-      "name": "Kenny Greb",
-      "reference": "lorem"
     }
   ]
 }

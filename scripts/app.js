@@ -23,7 +23,7 @@ angular
           },
           'main': {
             templateUrl: 'views/main.html',
-            controller: 'mainController'
+            controller: 'infoController'
           },
           'footer': {
             templateUrl: 'views/footer.html',
@@ -35,15 +35,15 @@ angular
         url: '/info',
         views: {
           'header': {
-            templateUrl: '../views/header.html',
+            templateUrl: 'views/header.html',
             controller: 'headerController'
           },
-          'main': {
-            templateUrl: '../views/info.html',
-            controller: 'infoController'
-          },
+          //'main': {
+          //  templateUrl: 'views/info.html',
+          //  controller: 'infoController'
+          //},
           'footer': {
-            templateUrl: '../views/footer.html',
+            templateUrl: 'views/footer.html',
             controller: 'footerController'
           }
         }

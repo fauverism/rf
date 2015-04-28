@@ -54,8 +54,9 @@ h5 {
 code {
   font-family: 'Source Sans Pro', sans-serif;
 }
-p, a {
-  font-size: 1.4rem;
+p {
+  font-size: 1.2rem;
+  line-height: 2rem;
 }
 a {
   color: #1a2129;
@@ -64,23 +65,52 @@ a {
 a:hover {
   color: #002a80;
 }
+.navbar-header {
+  .logo {
+    display: inline-block;
+    margin: 10px 0 0;
+    width: 100px;
+  }
+  .navbar-brand {
+    background-size: 100%;
+    background-color: #073642;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 60px;
+    color: #cccccc;
+    display: block;
+    font-family: 'Sacramento', cursive;
+    font-size: 2.5rem;
+    line-height: 40px;
+    height: 60px;
+    margin: 0 0 0 15px;
+    padding: 25px 0 0 14px;
+    width: 70px;
+  }
+  .navbar-brand-mobile {
+    display: none;
+  }
+  ul {
+    display: block;
+    float: right;
+    margin: 40px 0 0;
+    li {
+      display: inline-block;
+      margin: 0 0 0 20px;
+      a {
+        color: rgba(38, 139, 210, 1);
+      }
+      a:hover {
+        color: rgba(108, 113, 196, 1);
+      }
+    }
+  }
+}
 
-//Navbar
-.navbar-brand {
-//  background: url("../images/logo.png") no-repeat;
-  background-size: 100%;
-  font-family: 'Sacramento', cursive;
-  font-size: 3.3rem;
-  line-height: 40px;
-}
-.navbar-brand-mobile {
-  display: none;
-}
 .nav {
   margin: 10px 0 0;
 }
 
-/* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
 .footer {
@@ -102,11 +132,6 @@ a:hover {
 
 .container-narrow > hr {
   margin: 30px 0;
-}
-
-.logo {
-  margin: 40px 0 0;
-  width: 480px;
 }
 
 /* Main marketing message and sign up button */
@@ -147,14 +172,20 @@ a:hover {
   background: (0, 0, 0, 0.1);
   border-top: 1px solid #cccccc;
   color: #777;
-  padding-top: 19px;
-  text-align: center;
-  ul {
-    margin: 0;
+  ul.details {
+    display: inline-block;
     li {
       display: inline-block;
-      font-size: 1.3rem;
-      text-align: center;
+      margin: 4px 0 0;
+      text-align: left;
+    }
+  }
+  ul.social {
+    display: block;
+    float: right;
+    margin: 10px 0 0;
+    li {
+      display: inline-block;
     }
   }
   p {
